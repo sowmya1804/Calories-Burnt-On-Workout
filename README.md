@@ -21,4 +21,4 @@ Model Evaluation
  Linear Regression Model: 96%  
  Decision Tree Model: 99%  
  Random Forest Model: 96%    
-From the above models performance we can say that every model is performing well but, Decision Tree and XGBoost models are giving higher score compared to other models. So, we can use Decision Tree or XGBoost Model for predictions.
+From the above models performance we can say that every model is performing well but, **Decision Tree and XGBoost models** are giving higher score compared to other models. So, we can use Decision Tree or XGBoost Model for predictions.
