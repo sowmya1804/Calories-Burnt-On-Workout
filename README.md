@@ -19,7 +19,8 @@ Performing EDA
 Feature Selection  
 Model Evaluation  
 
-**Conclusion:** Accuracy scores for different models are  
+## Conclusion:
+Accuracy scores for different models are  
  XGBOOST Model:99%  
  Linear Regression Model: 96%  
  Decision Tree Model: 99%  
