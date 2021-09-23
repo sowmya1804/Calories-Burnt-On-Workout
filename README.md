@@ -12,12 +12,12 @@ To predict the data of calories burned in the exercises from the knowledge of du
 **files:** Calories.csv,Exercise.csv  
 
 ## Table Of Contents  
-1)Importing Libraries  
-2)Loading Datasets  
-3)Merging Dataframes    
-4)Performing EDA  
-5)Feature Selection  
-6)Model Evaluation  
+1) Importing Libraries  
+2) Loading Datasets  
+3) Merging Dataframes    
+4) Performing EDA  
+5) Feature Selection  
+6) Model Evaluation  
 
 ## Conclusion:
 Accuracy scores for different models are  
