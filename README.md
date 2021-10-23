@@ -11,7 +11,7 @@ To predict the data of calories burned in the exercises from the knowledge of du
 **Dataset downloaded from kaggle-** https://www.kaggle.com/fmendes/fmendesdat263xdemos?select=exercise.csv  
 **files:** Calories.csv,Exercise.csv  
 
-## Table Of Contents  
+## Steps Involved  
 1) Importing Libraries  
 2) Loading Datasets  
 3) Merging Dataframes    
